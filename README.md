@@ -1,3 +1,7 @@
+# Personal-Website
+
+## Sylvia Boyani     6, June 2022
+
 ## Table of Content
 
 - [Description](#description)
@@ -11,7 +15,10 @@
 
 ## Description
 
-This project is a web application is used to display information about me, my life; family, education and achievement
+This project is a web application is used to display information about me, my life; family, education and achievement.
+
+## Screenshots
+Screenshot from 2022-06-06 11-25-13.png
 		
 #### Requirements
 - Access to a computer or any other garget
