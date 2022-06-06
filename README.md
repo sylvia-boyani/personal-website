@@ -1,8 +1,6 @@
 ## Table of Content
 
 - [Description](#description)
-- [Features](#features)
-- [Behaviour Driven Development](#Behaviour-Driven-Development)
 - [Requirements](#requirements)
 - [Installation Process](#installation-Process)
 - [Live Link](#Live-Link)
@@ -13,26 +11,26 @@
 
 ## Description
 
-This project is a web application is used to display information about me, my life; family, education and achievements.
+This project is a web application is used to display information about me, my life; family, education and achievement
+		
+#### Requirements
+- Access to a computer or any other garget
+- Access to internet
 
-[Go Back to the top](#personal-website)
-Contains more information about me through my whole life
-	
-[Go Back to the top](#personal-website)		
-Requirements
-Access to a computer or any other garget
-Access to internet
-Installation Process
-Clone to thir repo : git clone https://github.com/sylvia-boyani/personal-website.git
-Unzip the downloaded files in a folder of choice.
-Open the index file from the zipped file with any browser.
-live link sylvia-boyani.github.io/personal-website/
-figma link https://www.figma.com/file/JRVlGEtg9KU7qsTKiVDJu8/my-website?node-id=0%3A1
+###### Installation Process
+- Clone to thir repo : git clone https://github.com/sylvia-boyani/personal-website.git
+- Unzip the downloaded files in a folder of choice.
+- Open the index file from the zipped file with any browser.
+
+- live link sylvia-boyani.github.io/personal-website/
+- figma link https://www.figma.com/file/JRVlGEtg9KU7qsTKiVDJu8/my-website?node-id=0%3A1
 
 ## Technology used
 
 HTML - which was used to develope the structure of the page.
+
 CSS - which was used to style the page.
+
 JS - Used in adding functionality
 
 ## License
