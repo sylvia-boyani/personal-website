@@ -51,6 +51,17 @@ p {
   margin-top: 200px;
 }
 
+
+#port{
+  margin-top: 500px;
+  text-align: center;
+  background-color: #333;
+}
+#port ul{
+  text-align: center;
+  display: inline-block;
+  
+}
 /*styling contact section */
 * {
   box-sizing: border-box;
@@ -85,7 +96,7 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: black;
   padding: 10px;
-  margin-top: 500px;
+  margin-top: 200px;
 }
 
 /* Create two columns that float next to eachother */
@@ -112,3 +123,4 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+
