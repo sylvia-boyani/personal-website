@@ -2,12 +2,12 @@ body {
   background-color: #616161;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  color: whitesmoke;
+  color: yellowgreen;
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
   display: flex;
   flex-direction: row;
 
@@ -25,12 +25,14 @@ body {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(138, 8, 8);
   color: black;
 }
 
 .header1 {
   text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
 }
 
 
@@ -94,9 +96,9 @@ input[type=submit]:hover {
 /* Style the container/contact section */
 .container {
   border-radius: 5px;
-  background-color: black;
+  background-color: #333;
   padding: 10px;
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 /* Create two columns that float next to eachother */
